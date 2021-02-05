@@ -39,5 +39,6 @@ int main()
     cout << "Area is: " << t3.getArea() << endl;
 
     cout << "That's all folks." << endl;
+    cout << "..." << endl;
     cout << "Goodbye!!!" << endl;
 }
